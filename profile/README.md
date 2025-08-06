@@ -1,9 +1,3 @@
-[![Latest Release](https://img.shields.io/github/v/release/upmio/upm.svg)](https://github.com/upmio/upm/releases)
-[![GitHub License](https://img.shields.io/github/license/upmio/upm)](https://github.com/upmio/upm/blob/main/LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-upmio.github.io-blue)](https://upmio.github.io)
-[![Go Report Card](https://goreportcard.com/badge/github.com/upmio/upm)](https://goreportcard.com/report/github.com/upmio/upm)
-[![GitHub Stars](https://img.shields.io/github/stars/upmio/upm?style=social)](https://github.com/upmio/upm)
-
 # Run Databases & Middleware in Kubernetes!
 
 Welcome to **UPMIO**, a comprehensive open source platform designed to
@@ -37,18 +31,6 @@ plane and data plane:
 - **UPM Platform**: Control plane providing declarative APIs and workflow orchestration
 - **UPM Engine**: Data plane implementing state reconciliation based on Kubernetes Operators
 
-## Adopters
-
-A list of publicly known users of UPMIO is in [ADOPTERS.md](https://github.com/upmio/upm/blob/main/ADOPTERS.md).
-Help us grow our community and UPMIO by adding yourself and your organization
-to this list!
-
-## Getting in touch
-
-- [GitHub Discussions](https://github.com/upmio/upm/discussions)
-- [Documentation](https://upmio.github.io)
-- [Contributing Guide](https://github.com/upmio/upm/blob/main/CONTRIBUTING.md)
-
 ## Contributing
 
 You can contribute to UPMIO in many ways:
@@ -60,4 +42,4 @@ You can contribute to UPMIO in many ways:
 
 ## License
 
-UPMIO is licensed under the [Apache License, Version 2.0](https://github.com/upmio/upm/blob/main/LICENSE).
+UPMIO is licensed under the [Apache License, Version 2.0](https://github.com/upmio/.github/blob/main/LICENSE).

@@ -2,6 +2,7 @@
 .kiro/
 
 # Documentation files (temporary)
+README.md
 upm-docs/
 cloudnative-pg-README.md
 docs/
