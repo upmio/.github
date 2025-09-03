@@ -40,6 +40,12 @@ The basic workflow of working with the operator can be simplified as the followi
 - When an event occurs, the operator reacts and updates the state of the objects in the cluster.
 - For some objects in the cluster the reconciliation cycle is performed at a given interval, even without the occurrence of change events.
 
+## Demo Video
+
+Watch the complete deployment and verification process in action:
+
+[![asciicast](https://asciinema.org/a/737567.svg)](https://asciinema.org/a/737567)
+
 ## Contributing
 
 We welcome contributions to all UPMIO projects! Each project has detailed contributing guidelines:
@@ -56,6 +62,10 @@ We welcome contributions to all UPMIO projects! Each project has detailed contri
 - **Share Knowledge**: Write blog posts, create tutorials, or speak at conferences
 - **Test & Feedback**: Try new features and provide valuable feedback
 
+
+## Acknowledgments
+
+We would like to express our sincere gratitude to [Syntropy](https://www.syntropycloud.io/company/) for their valuable support and collaboration in advancing enterprise data services and open source innovation. Their commitment to partnership and collaborative innovation has been instrumental in making cutting-edge open source technologies accessible and reliable for businesses worldwide.
 
 ## License
 
