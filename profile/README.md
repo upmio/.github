@@ -1,4 +1,4 @@
-# Run Databases & Middleware in Kubernetes!
+# Run Databases & Middleware in Kubernetes
 
 Welcome to **UPMIO**, a comprehensive open source platform designed to
 seamlessly manage databases and middleware within Kubernetes environments,
@@ -12,15 +12,18 @@ and other data services.
 ## Core Projects
 
 ### [unit-operator](https://github.com/upmio/unit-operator)
+
 Universal workload Operator that provides Unit and UnitSet custom resources,
 supporting unified orchestration and management of various databases and middleware.
 
 ### [compose-operator](https://github.com/upmio/compose-operator)
+
 Advanced operations Operator that provides automated management for complex
 operational scenarios such as MySQL master-slave replication, Redis clusters,
 and ProxySQL synchronization.
 
 ### [upm-packages](https://github.com/upmio/upm-packages)
+
 Containerization and Kubernetes deployment system for database
 and middleware components. Provides production-ready Helm charts with unified
 package management, security-hardened containers, and comprehensive monitoring
@@ -46,6 +49,8 @@ Watch the complete deployment and verification process in action:
 
 [![asciicast](https://asciinema.org/a/737567.svg)](https://asciinema.org/a/737567)
 
+For more examples and tutorials, visit our [upm-demo](https://github.com/upmio/upm-demo) repository.
+
 ## Contributing
 
 We welcome contributions to all UPMIO projects! Each project has detailed contributing guidelines:
@@ -61,7 +66,6 @@ We welcome contributions to all UPMIO projects! Each project has detailed contri
 - **Enhance Documentation**: Improve guides, examples, and API documentation
 - **Share Knowledge**: Write blog posts, create tutorials, or speak at conferences
 - **Test & Feedback**: Try new features and provide valuable feedback
-
 
 ## Acknowledgments
 
