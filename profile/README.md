@@ -49,7 +49,7 @@ Watch the complete deployment and verification process in action:
 
 [![asciicast](https://asciinema.org/a/737567.svg)](https://asciinema.org/a/737567)
 
-For more examples and tutorials, visit our [upm-demo](https://github.com/upmio/upm-demo) repository.
+For more examples and tutorials, visit our [upm-demo](https://github.com/upmio/demo) repository.
 
 ## Contributing
 
